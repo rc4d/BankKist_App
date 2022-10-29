@@ -1,0 +1,21 @@
+# DOM is interface between javascript and browser.
+Node structure ListNode (LinkedList)
+
+.textContent
+.childNodes
+.parentNode
+.cloneNode()
+
+.innerHTML
+
+.classList
+.children
+.parentElement
+.append()
+.remove()
+.insertAdjacentHTML()
+.querySelector()
+.closest()
+.matches()
+.scrollIntoView()
+.setAttribute()
